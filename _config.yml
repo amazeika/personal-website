@@ -2,7 +2,7 @@ title: "Arunas Mazeika"
 description: "Web Developer in Nantes, France"
 about: "I'm a backend web developer passionate about code who likes to spend his time writing things for the web. While advocating re-factoring above all I also believe that writing simple and clean code is the key for creating great software. Less is MORE! and cats are evil creatures"
 location: "Nantes, France"
-email: me@arunasmazeika.com
+#email: me@arunasmazeika.com
 baseurl: ""
 
 url: "http://www.arunasmazeika.com" # replace by your site's url
