@@ -1,0 +1,32 @@
+sections:
+  - title: Qualifications
+    items:
+      - title: LAMP developer
+      - title: Solid foundations on Object Oriented Programming, Principles and Design Patterns
+      - title: Agile Software Development
+      - title: Unix system administration (web server oriented)
+  - title: Languages
+    items:
+      - title: Spanish (native language)
+      - title: French (fluent)
+      - title: English (advanced)
+  - title: Professional and Interpersonal skills
+    items:
+      - title: Dependable and self-motivated
+      - title: Able to work well under pressure
+      - title: Fast learner and eager to learn new procedures and technologies
+      - title: Team player
+      - title: Committed to assisting others
+      - title: Self-taught
+  - title: Technical skills
+    items:
+      - title: Languages
+        content: PHP, Java, Python, C, C++, Perl, SQL/MySQL, HTML, CSS, JavaScript, JSON, XML, LESS, Sass ...
+      - title: Frameworks
+        content: Joomla! platform, Kodekit, Symfony, jQuery, Mootools ...
+      - title: VCSs
+        content: Subversion and GIT on highly collaborative environments
+      - title: Content Managment
+        content: Joomla, Drupal, Wordpress ...
+      - title: Other
+        content: AJAX, REST, HTTP, Apache, Nginx, composer, vagrant, jekyll ...
