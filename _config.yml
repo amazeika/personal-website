@@ -6,8 +6,12 @@ location: "Nantes, France"
 baseurl: ""
 
 url: "http://www.arunasmazeika.com" # replace by your site's url
-#twitter_username: your-name
+twitter_username: arunasmazeika
 github_username:  amazeika
+spotify_username: arunasmazeika
+skype_username: arunas_mazeika
+linkedin_username: arunasmazeika
+facebook_username: amazeika
 author: "Arunas Mazeika"
 
 # google analytics tracking code, please change the value

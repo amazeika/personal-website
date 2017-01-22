@@ -12,6 +12,18 @@
         {% if site.twitter_username %}
         <a href="https://twitter.com/{{ site.twitter_username }}" class="waves-effect waves-teal btn-flat my-twitter-link"><i class="fa fa-twitter"></i></a>
         {% endif %}
+        {% if site.facebook_username %}
+        <a href="https://www.facebook.com/{{ site.facebook_username }}" class="waves-effect waves-teal btn-flat my-facebook-link"><i class="fa fa-facebook"></i></a>
+        {% endif %}
+        {% if site.spotify_username %}
+        <a href="https://open.spotify.com/user/{{ site.spotify_username }}" class="waves-effect waves-teal btn-flat my-spotify-link"><i class="fa fa-spotify"></i></a>
+        {% endif %}
+        {% if site.skype_username %}
+        <a href="skype:{{site.skype_username}}?chat" class="waves-effect waves-teal btn-flat my-skype-link"><i class="fa fa-skype"></i></a>
+        {% endif %}
+        {% if site.linkedin_username %}
+        <a href="https://www.linkedin.com/in/{{site.linkedin_username}}" class="waves-effect waves-teal btn-flat my-linkedin-link"><i class="fa fa-linkedin"></i></a>
+        {% endif %}
     </p>
 </footer>
 <script type="text/javascript" src="{{ "/styles/jquery.js" | prepend: site.baseurl }}"></script>
@@ -31,3 +43,4 @@
 
 </script>
 {% endif %}
+
