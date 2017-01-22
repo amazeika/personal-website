@@ -43,5 +43,8 @@ var show_list = function(label)
         else $(current).fadeIn(300);
 
         current_btn.addClass('disabled');
+
+        // Unpin headroom on click
+        $(".my-footer").headroom('unpin');
     }
 };
