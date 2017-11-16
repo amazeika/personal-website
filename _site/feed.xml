@@ -3,11 +3,11 @@
   <channel>
     <title>Arunas Mazeika</title>
     <description>Web Developer in Nantes, France</description>
-    <link>http://www.arunasmazeika.com/</link>
-    <atom:link href="http://www.arunasmazeika.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 01 Feb 2017 17:23:22 +0100</pubDate>
-    <lastBuildDate>Wed, 01 Feb 2017 17:23:22 +0100</lastBuildDate>
-    <generator>Jekyll v3.2.1</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 16 Nov 2017 10:51:33 +0100</pubDate>
+    <lastBuildDate>Thu, 16 Nov 2017 10:51:33 +0100</lastBuildDate>
+    <generator>Jekyll v3.6.2</generator>
     
       <item>
         <title>Use my jekyll theme</title>
@@ -30,17 +30,17 @@
 
 &lt;h2 id=&quot;setup&quot;&gt;Setup&lt;/h2&gt;
 
-&lt;h3 id=&quot;get-the-sources&quot;&gt;1. Get the sources&lt;/h3&gt;
+&lt;h3 id=&quot;1-get-the-sources&quot;&gt;1. Get the sources&lt;/h3&gt;
 
-&lt;h4 id=&quot;clone&quot;&gt;1.1 Clone&lt;/h4&gt;
+&lt;h4 id=&quot;11-clone&quot;&gt;1.1 Clone&lt;/h4&gt;
 
 &lt;p&gt;Clone the repository from github:&lt;br /&gt;
 &lt;a href=&quot;https://github.com/lukas-h/material-theme.git&quot;&gt;https://github.com/lukas-h/material-theme.git&lt;/a&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;or-download&quot;&gt;1.2 or download&lt;/h4&gt;
+&lt;h4 id=&quot;12-or-download&quot;&gt;1.2 or download&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/lukas-h/material-theme/archive/gh-pages.zip&quot;&gt;https://github.com/lukas-h/material-theme/archive/gh-pages.zip&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;configure&quot;&gt;2. Configure&lt;/h3&gt;
+&lt;h3 id=&quot;2-configure&quot;&gt;2. Configure&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;
     &lt;p&gt;Replace all the configuration in &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;_data/projects.yml&lt;/code&gt; by your own data. Change the name, email address, configure your your language settings.&lt;br /&gt;
@@ -60,22 +60,22 @@ And most important: change the site’s URL! Optionally add your google analytic
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;start-writing-posts&quot;&gt;3. Start writing posts&lt;/h3&gt;
+&lt;h3 id=&quot;3-start-writing-posts&quot;&gt;3. Start writing posts&lt;/h3&gt;
 &lt;p&gt;Replace the existing example post and then add your own!&lt;br /&gt;
 Have a look at the &lt;a href=&quot;http://jekyllrb.com/docs/posts/&quot;&gt;Jekyll docs&lt;/a&gt;
 about how to write blog posts.&lt;br /&gt;
 To add tags to your posts, look into the example, you’ll see that there is
 a line starting with &lt;code class=&quot;highlighter-rouge&quot;&gt;tags:&lt;/code&gt;. Add your keywords there.&lt;/p&gt;
 
-&lt;h3 id=&quot;youre-done&quot;&gt;4. You’re done&lt;/h3&gt;
+&lt;h3 id=&quot;4-youre-done&quot;&gt;4. You’re done&lt;/h3&gt;
 &lt;p&gt;Take a stop on the Github project page. Feel free to give a star and share it with others!&lt;br /&gt;
 You have questions, feedback or something to improve, mail me or open issues on github. Contributions are always welcome.&lt;br /&gt;
 Thanks to them who have already &lt;a href=&quot;https://github.com/lukas-h/material-theme/graphs/contributors&quot;&gt;helped&lt;/a&gt; to improve, especially &lt;a href=&quot;https://github.com/varundey&quot;&gt;@varundey&lt;/a&gt;!&lt;br /&gt;
 See the &lt;a href=&quot;https://github.com/lukas-h/material-theme&quot;&gt;Github Project&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 19 Sep 2016 22:10:00 +0200</pubDate>
-        <link>http://www.arunasmazeika.com/2016/09/19/use-my-jekyll-theme.html</link>
-        <guid isPermaLink="true">http://www.arunasmazeika.com/2016/09/19/use-my-jekyll-theme.html</guid>
+        <link>http://localhost:4000/2016/09/19/use-my-jekyll-theme.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/09/19/use-my-jekyll-theme.html</guid>
         
         <category>english</category>
         
@@ -100,19 +100,23 @@ See the &lt;a href=&quot;https://github.com/lukas-h/material-theme&quot;&gt;Gith
 
 &lt;h3 id=&quot;this-is-heading-3&quot;&gt;this is heading 3&lt;/h3&gt;
 
-&lt;p&gt;you want a list?
-* first
-* second
-* third&lt;/p&gt;
+&lt;p&gt;you want a list?&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;first&lt;/li&gt;
+  &lt;li&gt;second&lt;/li&gt;
+  &lt;li&gt;third&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;you want an ordered list?
-1. whatever
-1. whatever
-1. whatever&lt;/p&gt;
+&lt;p&gt;you want an ordered list?&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;whatever&lt;/li&gt;
+  &lt;li&gt;whatever&lt;/li&gt;
+  &lt;li&gt;whatever&lt;/li&gt;
+&lt;/ol&gt;
 </description>
         <pubDate>Mon, 19 Sep 2016 00:00:00 +0200</pubDate>
-        <link>http://www.arunasmazeika.com/2016/09/19/welcome.html</link>
-        <guid isPermaLink="true">http://www.arunasmazeika.com/2016/09/19/welcome.html</guid>
+        <link>http://localhost:4000/2016/09/19/welcome.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/09/19/welcome.html</guid>
         
         <category>example</category>
         
